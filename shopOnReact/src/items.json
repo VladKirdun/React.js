@@ -1,0 +1,47 @@
+[
+				{
+					"img" : "images/apple.jpg",
+					"name" : "Apple",
+					"cost" : 150
+				},
+				{
+					"img" : "images/banana.jpg",
+					"name" : "Banana",
+					"cost" : 200
+				},
+				{
+					"img" : "images/orange.jpg",
+					"name" : "Orange",
+					"cost" : 180
+				},
+				{
+					"img" : "images/mango.jpg",
+					"name" : "Mango",
+					"cost" : 230
+				},
+				{
+					"img" : "images/hurma.jpg",
+					"name" : "Hurma",
+					"cost" : 250
+				},
+				{
+					"img" : "images/grape.jpg",
+					"name" : "Grape",
+					"cost" : 170
+				},
+				{
+					"img" : "images/lemon.jpg",
+					"name" : "Lemon",
+					"cost" : 140
+				},
+				{
+					"img" : "images/kivi.jpg",
+					"name" : "Kivi",
+					"cost" : 190
+				},
+				{
+					"img" : "images/grapefruit.jpg",
+					"name" : "Grapefruit",
+					"cost" : 210
+				}
+]

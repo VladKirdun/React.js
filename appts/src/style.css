@@ -1,0 +1,98 @@
+	* {
+		margin: 0;
+		padding: 0;
+	}
+
+	body {
+		font-family: Helvetica, sans-serif;
+		font-size: 17px;
+	}
+
+	.header {
+		border: 1px solid #818E99;
+		margin: 10px;
+		border-radius: 5px;
+	}
+
+	.hideBlock {
+		margin-right: 20px;
+		text-align: right;
+	}
+
+	.hideBlock div {
+		position: relative;
+	}
+
+	label {
+		font-weight: bold;
+	}
+
+	::-webkit-input-placeholder {
+		color: #C8CACA;
+		font-family: Helvetica, serif;
+	}
+
+	input, textarea {
+		border: 1px solid #ECECEC;
+		outline: none;
+		border-radius: 5px;
+		margin: 10px 0;
+		margin-left: 20px;
+		width: 85%;
+		padding: 5px;
+	}
+
+	input:focus, textarea:focus {
+		box-shadow: 0 0 5px #1369B0;
+	}
+
+	textarea {
+		font-family: Helvetica, serif;
+		height: 100px;
+		resize: none;
+	}
+
+	.addAppointment {
+		height: 40px;
+		background-color: #1369B0;
+		padding: 10px 10px;
+		box-sizing: border-box;
+		color: #fff;
+		border-radius: 5px;
+		cursor: pointer;
+	}
+
+	.add {
+		padding: 10px;
+		color: #fff;
+		font-weight: bold;
+		border: 0;
+		margin-bottom: 15px;
+		background-color: #1369B0;
+		border-radius: 5px;
+		outline: none;
+		cursor: pointer;
+	}
+
+.clearAppointment {
+	float: right;
+	margin: 5px;
+	padding: 1px 7px;
+	font-size: 18px;
+	border: 0;
+	border-radius: 2px;
+	color: #fff;
+	background-color: #1369B0;
+	outline: none;
+	cursor: pointer;
+}
+
+.appts {
+	margin: 10px;
+}
+
+.eachItem {
+	padding: 5px;
+	margin: 5px 0;
+	border-bottom: 1px solid #000;
+}
